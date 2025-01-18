@@ -3,8 +3,7 @@
 
 ## Skills
 <ul>
-  <ol>munna</ol>
-  <ol>dilkhush</ol>
+  <li>Dilkhsh: <p>This is that</p></li>
 </ul>
 
 <!--
