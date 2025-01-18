@@ -1,22 +1,9 @@
-## Hi there 👋
-<p>Aspiring and results-driven Master of Computer Applications (MCA) graduate with a strong foundation in software development, data structures, and algorithms. Proficient in programming languages such as Java, Python, and php, with hands-on experience in web development, database management, and cloud computing. Adept at problem-solving and delivering innovative solutions through academic projects.</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ethical-dilkhush&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ethical-dilkhush&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethical-dilkhush&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills
-<ul>
-  <li>Programming Language:<span>hello</span></li>
-</ul>
+---
+[![](https://visitcount.itsvg.in/api?id=ethical-dilkhush&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--
-**ethical-dilkhush/ethical-dilkhush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
