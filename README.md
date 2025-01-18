@@ -3,7 +3,7 @@
 
 ## Skills
 <ul>
-  <li>Dilkhsh: <p>This is that</p></li>
+  <li>Programming Language:</li><p>This is that</p>
 </ul>
 
 <!--
