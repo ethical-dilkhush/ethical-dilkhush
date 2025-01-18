@@ -1,6 +1,7 @@
 ## Hi there 👋
 <p>Aspiring and results-driven Master of Computer Applications (MCA) graduate with a strong foundation in software development, data structures, and algorithms. Proficient in programming languages such as Java, Python, and php, with hands-on experience in web development, database management, and cloud computing. Adept at problem-solving and delivering innovative solutions through academic projects.</p>
-##Skills
+
+## Skills
 
 
 <!--
